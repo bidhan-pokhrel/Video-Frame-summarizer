@@ -1,0 +1,10 @@
+# Python environment files
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Streamlit/OpenCV temporary files
+extracted_frames_temp/
+*.jpg
+*.mp4
